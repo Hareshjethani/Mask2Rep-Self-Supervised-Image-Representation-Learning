@@ -43,7 +43,7 @@ You can run the inference script by providing an input image:
 Bash
 python inference.py --image_path ./sample_images/test.jpg --mask_ratio 0.75
 (Note: Ensure you download the pre-trained weights from Hugging Face before running inference.)
-
+```
 Team
 This project was built and deployed collaboratively by:
 
