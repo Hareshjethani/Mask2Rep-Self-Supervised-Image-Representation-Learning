@@ -50,5 +50,5 @@ This project was built and deployed collaboratively by:
 Haresh Kumar
 
 ## License:
----
+
 This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the license terms
