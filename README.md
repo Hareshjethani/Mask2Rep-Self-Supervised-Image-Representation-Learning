@@ -1,8 +1,5 @@
  Mask2Rep: Self-Supervised Image Representation Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![HuggingFace]([https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Spaces-blue?style=for-the-badge](https://huggingface.co/spaces/haresh8765/Mask2Rep-Self-Supervised-Image-Representation-Learning))
-
 **Mask2Rep** is a custom-built Masked Autoencoder (MAE) trained entirely from scratch using PyTorch. The model leverages the power of Self-Supervised Learning (SSL) to reconstruct high-fidelity spatial and semantic representations from heavily occluded images (75% masked).
 
 **Read the Full Technical Deep-Dive on Medium:** [Mask2Rep Article](https://medium.com/@hjethani20/demystifying-self-supervised-learning-building-a-masked-autoencoder-mae-from-scratch-8f82b146f78f)  
